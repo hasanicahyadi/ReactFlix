@@ -1,12 +1,35 @@
-# React + Vite
+<img width="1542" height="1000" alt="Screenshot 2025-09-19 013639" src="https://github.com/user-attachments/assets/3a3529cc-0ac5-4df1-bcd5-5e7c4daf62cc" />
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# 🎯ReactFlix: A Netflix clone website built with ReactJS, movie API (TMDB), and Tailwind CSS
 
-Currently, two official plugins are available:
+# 🔗 Live Demo: https://reactflix-hasani.netlify.app/
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+# 🔋Features
+👉 Movie Library – Discover a wide selection of movies available on the platform.
 
-## Expanding the ESLint configuration
+👉 Smart Search – Quickly find specific titles with the built-in search feature.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+👉 Trending System – Highlights popular movies using a custom click-tracking algorithm.
+
+👉 Modern Design – Sleek, intuitive UI/UX for a smooth viewing experience.
+
+👉 Fully Responsive – Optimized layout that adapts seamlessly to any device.
+
+# 🛠️ Tech Stack
+* Appwrite – Open-source BaaS providing ready APIs for auth, database, storage, and more to speed up backend development.
+
+* React.js – Component-based JavaScript library for building fast, interactive UIs and SPAs.
+
+* React-use – Collection of reusable hooks simplifying state, side effects, and lifecycle management in React.
+
+* Tailwind CSS – Utility-first CSS framework for rapidly building responsive, custom designs.
+
+* Vite – Modern build tool with a fast dev server, hot module replacement, and optimized builds.
+
+* TMDB API – Free API offering extensive movie and TV data to power entertainment apps.
+
+
+
+
+
+
