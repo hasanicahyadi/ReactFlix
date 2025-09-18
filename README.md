@@ -2,7 +2,7 @@
 
 # 🎯ReactFlix: A Netflix clone website built with ReactJS, movie API (TMDB), and Tailwind CSS
 
-# 🔗 Live Demo: https://reactflix-hasani.netlify.app/
+## 🔗 Live Demo: https://reactflix-hasani.netlify.app/
 
 # 🔋Features
 👉 Movie Library – Discover a wide selection of movies available on the platform.
